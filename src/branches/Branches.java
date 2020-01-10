@@ -18,6 +18,7 @@ public class Branches {
         // TODO code application logic here
         System.out.println("Hola César");
         System.out.println("Fin de la cita");
+        System.out.println("Hola Rojo");
     }
     
 }
